@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/milan-poudel-713457237/l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan poudel" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008984238148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="मिलन पौडेल" height="30" width="40" /></a>
 <a href="https://instagram.com/beeplove.mill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beeplove.mill" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pablo tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pablo tv" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCb9S_nwRDLjzZ_0FdplG7vg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pablo tv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
